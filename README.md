@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/emanuelaelli/-Web-Marketing-and-Communication-Management/blob/main/Images/WebMarketingLogo.avif" width="100%">
+  <img src="https://github.com/emanuelaelli/Web_Marketing_and_Communication-Management/blob/main/Images/WebMarketingLogo.avif" width="100%">
 </p>
   <h6 align="center">a Digital Marketing Project</h6>
 <p align="center">
@@ -38,7 +38,7 @@ Dataset can't be shared for copyright reason
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation
-You can find our presentation in the <a href="https://github.com/emanuelaelli/-Web-Marketing-and-Communication-Management/tree/main/Slides">Slides</a> folder.<br>
+You can find our presentation in the <a href="https://github.com/emanuelaelli/Web_Marketing_and_Communication-Management/tree/main/Slides">Slides</a> folder.<br>
 
 
 <a name="aboutus"></a>
