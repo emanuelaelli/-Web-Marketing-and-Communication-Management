@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TStrada/Web-marketing-project/blob/main/Images/WebMarketingLogo.avif" width="100%">
+  <img src="https://github.com/emanuelaelli/-Web-Marketing-and-Communication-Management/blob/main/Images/WebMarketingLogo.avif" width="100%">
 </p>
   <h6 align="center">a Digital Marketing Project</h6>
 <p align="center">
@@ -38,7 +38,7 @@ Dataset can't be shared for copyright reason
 
 <a name="presentation"></a>
 ## &#9741; &nbsp; Presentation
-You can find our presentation in the <a href="https://github.com/TStrada/Web-marketing-project/tree/main/Slides">Slides</a> folder.<br>
+You can find our presentation in the <a href="https://github.com/emanuelaelli/-Web-Marketing-and-Communication-Management/tree/main/Slides">Slides</a> folder.<br>
 
 
 <a name="aboutus"></a>
@@ -51,8 +51,8 @@ You can find our presentation in the <a href="https://github.com/TStrada/Web-mar
 <br>
 
 <p align = "center">
-<a href = "https://linkedin.com/in/TommasoStrada"><img src="https://github.com/TStrada/TStrada/blob/main/LinkedIn_logo.png" width = "2.3%"></a>
-  <a href = "https://github.com/TStrada"><img src="https://github.com/TStrada/TStrada/blob/main/GitHub_image.png" width = "2.5%"></a>
+<a href = "https://linkedin.com/in/TommasoStrada"><img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/LinkedIn_logo.png" width = "2.3%"></a>
+  <a href = "https://github.com/TStrada"><img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/GitHub_image.png" width = "2.5%"></a>
 </p>
 
 &#8860; &nbsp; **Federica Madon**
@@ -62,7 +62,7 @@ You can find our presentation in the <a href="https://github.com/TStrada/Web-mar
 <br>
 
 <p align = "center">
-  <a href = "https://github.com/f-madon"><img src="https://github.com/TStrada/TStrada/blob/main/GitHub_image.png" width = "2.5%"></a>
+  <a href = "https://github.com/f-madon"><img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/GitHub_image.png" width = "2.5%"></a>
 </p>
 
 &#8860; &nbsp; **Emanuela Elli**
@@ -72,7 +72,7 @@ You can find our presentation in the <a href="https://github.com/TStrada/Web-mar
 <br>
 
 <p align = "center">
-<a href = "https://www.linkedin.com/in/emanuela-elli-82137b206/"><img src="https://github.com/TStrada/TStrada/blob/main/LinkedIn_logo.png" width = "2.3%"></a>
+<a href = "https://www.linkedin.com/in/emanuela-elli-82137b206/"><img src="https://github.com/emanuelaelli/emanuelaelli/blob/main/LinkedIn_logo.png" width = "2.3%"></a>
   <a href = "https://github.com/emanuelaelli"><img src="https://github.com/TStrada/TStrada/blob/main/GitHub_image.png" width = "2.5%"></a>
 </p>
 
